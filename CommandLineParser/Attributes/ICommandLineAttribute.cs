@@ -10,6 +10,6 @@ namespace CommandLineParser.Attributes
     {
         //todo we might want some validator logic in here, so that each attribute does it's own local validation
 
-        //todo may want some class leel attributes that can be applied to a
+        //todo may want some class level attributes that can be applied to a set of attributes, or information at the class level (such as description)
     }
 }
